@@ -29,14 +29,14 @@ So far I have added solutions for:
         <td>
             <li>
                 <ul>
-                    [938A][p1]
+                    [938A](https://codeforces.com/contest/938/problem/A)
                 </ul>
             </li>
         </td>
         <td>
             <li>
                 <ul>
-                    [solution][s1]
+                    [solution](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp)
                 </ul>
             </li>
         </td>
@@ -48,8 +48,3 @@ You can also find my c++ template [here](https://github.com/JubayerJoy/Codeforce
 You can open a PR if you find any mistakes. Contributions are welcome as well :smile:
 
 Thanks!
-
-
-[p1] : https://codeforces.com/contest/938/problem/A
-
-[s1] : https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp
