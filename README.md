@@ -1,7 +1,7 @@
 # Codeforces Solutions
 
 I took part in contests as well as solved interesting problems since high school days.
-In this repo, you will find some of my solutions that may help you a problem you are stuck on.
+In this repository, you will find some of my solutions that may help you a problem you are stuck on.
 
 I have used snake_case variable naming, 4 spaces for indentation.
 
