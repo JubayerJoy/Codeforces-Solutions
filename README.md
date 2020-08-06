@@ -1,11 +1,9 @@
 # Codeforces Solutions
 
-I took part in contests as well as solved interesting problems since high school days.
-In this repository, you will find some of my solutions that may help you a problem you are stuck on.
+Since high school days, I solved a lot of algorithmic problems and took part in contests. 
+In this repository, you will find some of my solutions to codeforces problems.
 
-I have used snake_case variable naming, 4 spaces for indentation.
-
-So far I have added solutions for:
+I have used snake_case variable naming convention, 4 spaces for indentation.
 
 ## Problem A
 
