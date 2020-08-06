@@ -9,9 +9,10 @@ So far I have added solutions for:
 
 ## Problem A
 
-| Id    | Problem Name | Solution | Type | Difficulty  |
-| --    | ------------ | -------- | ----------- | ------- |
-| [938A](https://codeforces.com/contest/938/problem/A) | Word Correction | [Solution](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp) | Implementation | Easy |
+| Id                                                   | Problem Name         | Solution                                                                                                               | Type           | Difficulty |
+| ---------------------------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------- | ---------- |
+| [935A](https://codeforces.com/contest/935/problem/A) | Fafa and his Company | [Solution](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/935A%20Fafa%20and%20his%20Company.cpp) | Implementation | Easy       |
+| [938A](https://codeforces.com/contest/938/problem/A) | Word Correction      | [Solution](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp)          | Implementation | Easy       |
 
 
 You can also find my c++ template [here](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/template.cpp).
