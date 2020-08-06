@@ -13,7 +13,7 @@ So far I have added solutions for:
 - Problem C:
 - Problem D:
 
-You can also find my c++ template here.
+You can also find my c++ template [here](https://github.com/JubayerJoy/Codeforces-Solutions/template.cpp).
 
 You can open a PR if you find any mistakes. Contributions are welcome as well :smile:
 
