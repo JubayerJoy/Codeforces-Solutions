@@ -7,41 +7,12 @@ I have used snake_case variable naming, 4 spaces for indentation.
 
 So far I have added solutions for:
 
+## Problem A
 
-<table>
-    <th>
-        <td> Problems Sovled</td>
-    </th>
-    <tr>
-       <td colspan = "2"> Problem A </td>
-       <td colspan = "2"> Problem B </td>
-       <td colspan = "2"> Problem C </td>
-    </tr>
-    <tr>
-       <td> Id </td>
-       <td> Solution</td>
-       <td> Id </td>
-       <td> Solution</td>
-       <td> Id </td>
-       <td> Solution</td>
-    </tr>
-    <tr>
-        <td>
-            <li>
-                <ul>
-                    [938A](https://codeforces.com/contest/938/problem/A)
-                </ul>
-            </li>
-        </td>
-        <td>
-            <li>
-                <ul>
-                    [solution](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp)
-                </ul>
-            </li>
-        </td>
-    </tr>
-</table>
+| Id    | Problem Name | Solution | Type | Difficulty  |
+| --    | ------------ | -------- | ----------- | ------- |
+| [938A](https://codeforces.com/contest/938/problem/A) | Word Correction | [Solution](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp) | Implementation | Easy |
+
 
 You can also find my c++ template [here](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/template.cpp).
 
