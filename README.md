@@ -15,4 +15,5 @@ So far I have added solutions for:
 You can also find my c++ template here.
 
 You can open a PR if you find any mistakes. Contributions are welcome as well :smile:
+
 Thanks!
