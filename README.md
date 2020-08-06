@@ -16,6 +16,6 @@ So far I have added solutions for:
 
 You can also find my c++ template [here](https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/template.cpp).
 
-You can open a PR if you find any mistakes. Contributions are welcome as well :+1:
+You can open a issue if you find any mistakes, contributions are welcome as well :blackheart:
 
 Thanks!
