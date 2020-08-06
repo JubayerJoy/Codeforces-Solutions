@@ -7,7 +7,8 @@ I have used snake_case variable naming, 4 spaces for indentation.
 
 So far I have added solutions for:
 
-- Problem A:
+- Problem A: [938A](https://codeforces.com/contest/938/problem/A),
+
 - Problem B:
 - Problem C:
 - Problem D:
