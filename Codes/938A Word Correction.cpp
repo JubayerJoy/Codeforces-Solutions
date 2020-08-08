@@ -1,10 +1,10 @@
 /**
   * Author     : Jubayer Abdullah Joy
   *              CSE, 5th Batch, University of Barishal
-  * Mail       : joy.cse5.bu@gmail.com or jubayerjoy98@gmail.com
+  * Mail       : jubayerjoy98@gmail.com
   * Codeforces : Joy
-  * Problem    : 938A Word Correction
-  * Time       : 2020-08-06-21.06.39 Thursday
+  * Github     : github.com/JubayerJoy
+  * Problem    : 
   *
   */
 

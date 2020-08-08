@@ -1,10 +1,10 @@
 /**
   * Author     : Jubayer Abdullah Joy
   *              CSE, 5th Batch, University of Barishal
-  * Mail       : joy.cse5.bu@gmail.com or jubayerjoy98@gmail.com
+  * Mail       : jubayerjoy98@gmail.com
   * Codeforces : Joy
-  * Problem    : 935A Fafa and his Company
-  * Time       : 2020-08-06-23.06.32 Thursday
+  * Github     : github.com/JubayerJoy
+  * Problem    : 
   *
   */
 
