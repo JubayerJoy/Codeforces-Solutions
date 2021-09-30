@@ -11,7 +11,8 @@ So far I have added solutions for:
 
 | Id         | Problem Name         | Solution       | Type           | Difficulty | Must solve? |
 | ---------- | -------------------- | -------------- | -------------- | ---------- | ----------- |
-| [158A][p6] | Watermelon           | [Solution][g6] | Math           | Easy       | Yes         |
+| [118A][p7] | String Task          | [Solution][g7] | Math           | Easy       | Yes         |
+| [158A][p6] | Next Round           | [Solution][g6] | Math           | Easy       | Yes         |
 | [935A][p5] | Fafa and his Company | [Solution][g5] | Implementation | Easy       | Yes         |
 | [938A][p4] | Word Correction      | [Solution][g4] | Implementation | Easy       | Yes         |
 | [1A][p3]   | Theater Square       | [Solution][g3] | Math           | Easy       | Yes         |
@@ -26,6 +27,7 @@ Thanks!
 
 <!-- Problem Link -->
 
+[p7]: https://codeforces.com/contest/118/problem/A
 [p6]: https://codeforces.com/contest/158/problem/A
 [p5]: https://codeforces.com/contest/935/problem/A
 [p4]: https://codeforces.com/contest/938/problem/A
@@ -35,6 +37,7 @@ Thanks!
 
 <!-- Github Link --->
 
+[g7]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/118A%20String%20Task.cpp
 [g6]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/158A%20Next%20Round.cpp
 [g5]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/935A%20Fafa%20and%20his%20Company.cpp
 [g4]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp
