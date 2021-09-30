@@ -11,6 +11,7 @@ So far I have added solutions for:
 
 | Id         | Problem Name         | Solution       | Type           | Difficulty | Must solve? |
 | ---------- | -------------------- | -------------- | -------------- | ---------- | ----------- |
+| [231A][p9] | Team                 | [Solution][g9] | Math           | Easy       | Yes         |
 | [50A][p8]  | Domino piling        | [Solution][g8] | Math           | Easy       | Yes         |
 | [118A][p7] | String Task          | [Solution][g7] | Math           | Easy       | Yes         |
 | [158A][p6] | Next Round           | [Solution][g6] | Math           | Easy       | Yes         |
@@ -28,6 +29,7 @@ Thanks!
 
 <!-- Problem Link -->
 
+[p9]: https://codeforces.com/contest/231/problem/A
 [p8]: https://codeforces.com/contest/50/problem/A
 [p7]: https://codeforces.com/contest/118/problem/A
 [p6]: https://codeforces.com/contest/158/problem/A
@@ -39,6 +41,7 @@ Thanks!
 
 <!-- Github Link --->
 
+[g9]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/231A%20Team.cpp
 [g8]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/50A%20Domino%20piling.cpp
 [g7]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/118A%20String%20Task.cpp
 [g6]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/158A%20Next%20Round.cpp
