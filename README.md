@@ -39,7 +39,8 @@ Thanks!
 
 <!-- Github Link --->
 
-[g7]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/50A%20Domino%20piling.cpp
+[g8]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/50A%20Domino%20piling.cpp
+[g7]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/118A%20String%20Task.cpp
 [g6]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/158A%20Next%20Round.cpp
 [g5]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/935A%20Fafa%20and%20his%20Company.cpp
 [g4]: https://github.com/JubayerJoy/Codeforces-Solutions/blob/master/Codes/938A%20Word%20Correction.cpp
